@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermTests</string>
+
+    <string name="title">Android M Permissions Test</string>
+    <string name="subtitle">The following actions can be performed without any permissions prompting under Android M. I\'ve created this app to help developers and users consider whether these choices are appropriate.</string>
+    <string name="that_sucks">That sucks</string>
+    <string name="account_identifiers">Account Identifiers</string>
+</resources>
