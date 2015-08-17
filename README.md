@@ -8,6 +8,8 @@ Two of the grant-at-install-time permissions are [`GET_ACCOUNTS`](http://develop
 
 **Update 7/10/2015** An Android project member [has stated](https://code.google.com/p/android-developer-preview/issues/detail?id=2340#c12) `GET_ACCOUNTS` will be protected in a future build.
 
+**Update 8/17/2015** The third M preview (tested build MPA44G on Nexus 5) does not provide any accounts information without the `android.permission-group.CONTACTS` permission prompt. One small step for man <crackle> <crackle> One giant leap for mankind.
+
 *This app doesn't transmit anything but it is granted the `INTERNET` for demonstration.
 
 ## Contributions
